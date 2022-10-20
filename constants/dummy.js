@@ -35,8 +35,6 @@ const NFTData = [
     
     description:
     "Take 100g Blackberries for Dark Blue / Purple Layer,50g Green Apple and 50g Kiwi for Green Layer,100g Pineapple for Yellow Layer,50g Mango and 50g Peach for Orange Layer,100g Strawberries for Red Layer.Blend each layer with 200ml Chardonnay, 1 scoop of crushed ice and frozen fruit.Layer in glass jug, freezing in between each layer to help the separation hold.Garnish with fresh fruit.",
-    description:
-    "Take 100g Blackbe",
     image: assets.nft04,
   },
   {
